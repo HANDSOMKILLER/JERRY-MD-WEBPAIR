@@ -73,32 +73,32 @@ var randomItem = selectRandomItem(items);
                         const { upload } = require('./mega');
                         const mega_url = await upload(fs.createReadStream(rf), `${sock.user.id}.json`);
                         const string_session = mega_url.replace('https://mega.nz/file/', '');
-                        let md = "DARK-SILENCE-MD~" + string_session;
+                        let md = "JERRY-MD~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `*┏━━━━━━━━━━━━━━*
-*┃DARK-SILENCE-MD SESSION IS*
+*┃JERRY-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = SILENT LOVER⁴³²👨🏻‍💻*
+*❶ || Creator = MR.JERRY👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s
+*❷ || WhatsApp Channel =*https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* https://wa.me/+923096287432
+*❸ || Owner =* https://wa.me/+923126460870
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+*❹ || Repo =* https://github.com/Rafimayo/Jerry/md
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@silentlover432-king?si=UkBkCZswRFaWHOZl
+*❺ || You Tube =*https://youtube.com/@lahorelabpattoki?si=PjXP6xJfvqBX8vFN?si=UkBkCZswRFaWHOZl
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*💙POWERD BY SILENTLOVER432💛*`; 
+*💙POWERD BY MR.JERRY💛*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "SILENT LOVER⁴³²👨🏻‍💻",
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s",
+title: "MR.JERRY👨🏻‍💻",
+thumbnailUrl: "https://files.catbox.moe/gnibbg",
+sourceUrl: "https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -108,29 +108,29 @@ renderLargerThumbnail: true
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*┏━━━━━━━━━━━━━━*
-*┃DARK-SILENCE-MD SESSION IS*
+*┃JERRY-MD SESSION IS*
 *┃SUCCESSFULLY*
 *┃CONNECTED ✅🔥*
 *┗━━━━━━━━━━━━━━━*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❶ || Creator = SILENT LOVER⁴³²👨🏻‍💻*
+*❶ || Creator = MR.JERRY👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s
+*❷ || WhatsApp Channel =*https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❸ || Owner =* https://wa.me/+923096287432
+*❸ || Owner =* https://wa.me/+923126460870
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❹ || Repo =* https://github.com/DARKSILENCE04/DARK-SILENCE-MD
+*❹ || Repo =* https://github.com/Rafimayo/Jerry/md
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =* https://youtube.com/@silentlover432-king?si=UkBkCZswRFaWHOZl
+*❺ || You Tube =*https://youtube.com/@lahorelabpattoki?si=PjXP6xJfvqBX8vFN?si=UkBkCZswRFaWHOZl
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*💙POWERD BY SILENTLOVER432💛*`;
+*💙POWERD BY MR.JERRY💛*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "SILENT LOVER⁴³²👨🏻‍💻",
-thumbnailUrl: "https://telegra.ph/file/2a06381b260c3f096a612.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s",
+title: "MR.JERRY👨🏻‍💻",
+thumbnailUrl: "https://files.catbox.moe/gnibbg",
+sourceUrl: "https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
