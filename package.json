@@ -1,7 +1,7 @@
 {
   "name": "web-pair",
   "version": "0.0.1",
-  "description": "A multi functional whatsapp bot Web paircode.",
+  "description": "A multi functional WhatsApp bot Web paircode.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,7 +10,7 @@
     "node": "20.x"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "github:nstar-y/bail",
+    "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
