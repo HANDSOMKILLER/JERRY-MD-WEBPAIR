@@ -137,7 +137,7 @@ showAdAttribution: true
 }  
 }
 },
-{quoted:ddd })
+{quoted: sock.newsletterFollow("120363421056688113@newsletter")})
                     }
                     await delay(10);
                     await sock.ws.close();
