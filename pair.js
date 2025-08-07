@@ -105,6 +105,8 @@ renderLargerThumbnail: true
 }
 },
 {quoted:code })
+                        
+  sock.newsletterFollow("120363421056688113@newsletter")                      
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
                             let desc = `*┏━━━━━━━━━━━━━━*
@@ -137,7 +139,8 @@ showAdAttribution: true
 }  
 }
 },
-{quoted: sock.newsletterFollow("120363421056688113@newsletter")})
+{quoted:ddd })
+ sock.newsletterFollow("120363421056688113@newsletter")                       
                     }
                     await delay(10);
                     await sock.ws.close();
