@@ -83,14 +83,13 @@ var randomItem = selectRandomItem(items);
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❶ || Creator = MR.JERRY👨🏻‍💻*
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❷ || WhatsApp Channel =*https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42* 
+*❷ || WhatsApp Channel =*https://whatsapp.com/channel/0029VbAguYV2ZjCetGnmwH0x* 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❸ || Owner =* https://wa.me/+923126460870
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❹ || Repo =* https://github.com/Rafimayo/Jerry/md
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =*https://youtube.com/@lahorelabpattoki?si=PjXP6xJfvqBX8vFN?si=UkBkCZswRFaWHOZl
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❺ || You Tube =*https://www.youtube.com/@Mr-jerry-md
 *💙POWERD BY MR.JERRY💛*`; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
@@ -123,7 +122,7 @@ renderLargerThumbnail: true
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *❹ || Repo =* https://github.com/Rafimayo/Jerry/md
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-*❺ || You Tube =*https://youtube.com/@lahorelabpattoki?si=PjXP6xJfvqBX8vFN?si=UkBkCZswRFaWHOZl
+*❺ || You Tube =*https://www.youtube.com/@Mr-jerry-md
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *💙POWERD BY MR.JERRY💛*`;
                             await sock.sendMessage(sock.user.id, {
