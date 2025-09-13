@@ -96,7 +96,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "MR.JERRY👨🏻‍💻",
-thumbnailUrl: "https://files.catbox.moe/gnibbg",
+thumbnailUrl: "https://files.catbox.moe/yqp7c7",
 sourceUrl: "https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42",
 mediaType: 1,
 renderLargerThumbnail: true
@@ -130,7 +130,7 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "MR.JERRY👨🏻‍💻",
-thumbnailUrl: "https://files.catbox.moe/gnibbg",
+thumbnailUrl: "https://files.catbox.moe/yqp7c7",
 sourceUrl: "https://whatsapp.com/channel/0029VarkVkoLikg1S62MEt42",
 mediaType: 2,
 renderLargerThumbnail: true,
